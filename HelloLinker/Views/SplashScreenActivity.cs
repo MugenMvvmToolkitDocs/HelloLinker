@@ -4,7 +4,7 @@ using MugenMvvmToolkit.Android.Views.Activities;
 
 namespace HelloLinker.Views
 {
-    [Activity(Label = "HelloValidation", Theme = "@android:style/Theme.NoTitleBar", MainLauncher = true,
+    [Activity(Label = "HelloLinker", Theme = "@android:style/Theme.NoTitleBar", MainLauncher = true,
         Icon = "@drawable/icon", NoHistory = true)]
     public class SplashScreenActivity : SplashScreenActivityBase
     {
