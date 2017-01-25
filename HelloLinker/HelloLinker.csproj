@@ -74,9 +74,6 @@
     <Reference Include="MugenMvvmToolkit.Android">
       <HintPath>..\libs\MugenMvvmToolkit.Android.dll</HintPath>
     </Reference>
-    <Reference Include="MugenMvvmToolkit.Android.AppCompat">
-      <HintPath>..\libs\MugenMvvmToolkit.Android.AppCompat.dll</HintPath>
-    </Reference>
     <Reference Include="MugenMvvmToolkit.AutofacContainer">
       <HintPath>..\libs\MugenMvvmToolkit.AutofacContainer.dll</HintPath>
     </Reference>
